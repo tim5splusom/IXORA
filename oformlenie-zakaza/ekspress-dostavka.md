@@ -34,3 +34,9 @@
 Если заказ с одного склада заблокирован, пока не будут выполнены условия, вы всё равно можете оформить другие заказы, которые уже соответствуют требованиям.
 
 <figure><img src="../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Не нашли ответ на свой вопрос?&#x20;
+
+<a href="https://forms.yandex.ru/cloud/69f9cdaff47e73bc12a05ef7" class="button primary" data-icon="message">Создать обращение</a>
+{% endhint %}

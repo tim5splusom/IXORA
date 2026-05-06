@@ -51,3 +51,9 @@ icon: circle-play
 
 
     <figure><img src="https://res.craft.do/user/full/c5afe800-3e18-9b24-50df-ee1e46520d76/doc/17f75646-ffe9-45ec-8707-52edbd6d84a8/62d44272-b6d4-453c-bd66-ae71107795b2" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Не нашли ответ на свой вопрос?&#x20;
+
+<a href="https://forms.yandex.ru/cloud/69f9cdaff47e73bc12a05ef7" class="button primary" data-icon="message">Создать обращение</a>
+{% endhint %}

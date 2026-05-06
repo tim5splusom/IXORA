@@ -15,3 +15,9 @@
 Можно применять сразу несколько фильтров. После применения выбранные фильтры отображаются на панели управления над таблицей предложений. Там же можно снять отдельный фильтр или сбросить все сразу.
 
 <figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Не нашли ответ на свой вопрос?&#x20;
+
+<a href="https://forms.yandex.ru/cloud/69f9cdaff47e73bc12a05ef7" class="button primary" data-icon="message">Создать обращение</a>
+{% endhint %}
