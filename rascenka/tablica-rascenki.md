@@ -28,10 +28,10 @@
     – управлять количеством,
 
     – добавить комментарий к позиции.
-* цена (настраивается - см. [Пользовательская наценка](../carts/polzovatelskaya-nacenka.md))&#x20;
+* цена (настраивается - см. [Пользовательская наценка](../carts/polzovatelskaya-nacenka.md))
 
-{% hint style="info" %}
-Не нашли ответ на свой вопрос?&#x20;
+***
+
+Не нашли ответ на свой вопрос?
 
 <a href="https://forms.yandex.ru/cloud/69f9cdaff47e73bc12a05ef7" class="button primary" data-icon="message">Создать обращение</a>
-{% endhint %}

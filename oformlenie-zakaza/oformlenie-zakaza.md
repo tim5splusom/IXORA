@@ -20,13 +20,11 @@
 
 **Выбор способа доставки:**
 
-{% hint style="warning" %}
-Временно недоступно
-
-Функциональность появится в одном из будущих обновлений
-
-Следите за [poslednie-obnovleniya.md](../poslednie-obnovleniya.md "mention") и [dorozhnaya-karta.md](../dorozhnaya-karta.md "mention")
-{% endhint %}
+> Временно недоступно
+>
+> Функциональность появится в одном из будущих обновлений
+>
+> Следите за [poslednie-obnovleniya.md](../poslednie-obnovleniya.md "mention")&#x20;
 
 \
 Сверху панели управления можно выбрать способ доставки — стандартная, ~~самовывоз из магазина, экспресс~~. При выборе способа доставки все товары, доступные для него, поднимаются наверх, остальные позиции блокируются. По умолчанию все подходящие позиции уже выбраны, но вы можете снять выбор с тех товаров, которые хотите заказать другим способом.<br>
@@ -37,9 +35,8 @@
 
 <figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-Не нашли ответ на свой вопрос?&#x20;
+***
+
+Не нашли ответ на свой вопрос?
 
 <a href="https://forms.yandex.ru/cloud/69f9cdaff47e73bc12a05ef7" class="button primary" data-icon="message">Создать обращение</a>
-{% endhint %}
-
