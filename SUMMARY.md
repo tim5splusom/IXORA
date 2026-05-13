@@ -34,3 +34,10 @@
 * [Выданные заказы](orders/vydannye-zakazy.md)
 
 ## Баланс и финансы <a href="#finance" id="finance"></a>
+
+***
+
+* [Баланс](balans.md)
+* [Баланс по договорам](balans-po-dogovoram.md)
+* [Взаиморасчеты](vzaimoraschety.md)
+* [График платежей](grafik-platezhei.md)

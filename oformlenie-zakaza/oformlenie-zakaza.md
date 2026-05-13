@@ -20,7 +20,13 @@
 
 **Выбор способа доставки:**
 
-<mark style="color:$warning;">(Смотри</mark> [<mark style="color:$warning;">список известных ограничений</mark>](../izvestnye-problemy-i-ogranicheniya.md)<mark style="color:$warning;">)</mark>
+{% hint style="warning" %}
+Временно недоступно
+
+Функциональность появится в одном из будущих обновлений
+
+Следите за [poslednie-obnovleniya.md](../poslednie-obnovleniya.md "mention") и [dorozhnaya-karta.md](../dorozhnaya-karta.md "mention")
+{% endhint %}
 
 \
 Сверху панели управления можно выбрать способ доставки — стандартная, ~~самовывоз из магазина, экспресс~~. При выборе способа доставки все товары, доступные для него, поднимаются наверх, остальные позиции блокируются. По умолчанию все подходящие позиции уже выбраны, но вы можете снять выбор с тех товаров, которые хотите заказать другим способом.<br>
@@ -36,3 +42,4 @@
 
 <a href="https://forms.yandex.ru/cloud/69f9cdaff47e73bc12a05ef7" class="button primary" data-icon="message">Создать обращение</a>
 {% endhint %}
+

@@ -1,6 +1,12 @@
 # Самовывоз
 
-<mark style="color:$warning;">(временно недоступно, смотри</mark> [<mark style="color:$warning;">список известных ограничений</mark>](../izvestnye-problemy-i-ogranicheniya.md)<mark style="color:$warning;">)</mark>
+{% hint style="warning" %}
+Временно недоступно
+
+Функциональность появится в одном из будущих обновлений
+
+Следите за [poslednie-obnovleniya.md](../poslednie-obnovleniya.md "mention") и [dorozhnaya-karta.md](../dorozhnaya-karta.md "mention")
+{% endhint %}
 
 Если вы выберете самовывоз, будут показаны только товары, доступные для самовывоза.&#x20;
 
