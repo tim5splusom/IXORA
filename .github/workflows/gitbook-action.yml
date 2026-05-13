@@ -2,7 +2,7 @@ name: 'Gitbook Action Build'
 on:
   push:
     branches:
-      - main  # Укажите вашу основную ветку (main или master)
+      - main  # Укажите вашу основную ветку1 (main или master)
 jobs:
   build:
     runs-on: ubuntu-latest
