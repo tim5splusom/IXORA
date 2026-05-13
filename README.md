@@ -4,17 +4,15 @@
 
 #### Рекомендуемые статьи
 
-{% content-ref url="nachalo-raboty.md" %}
 [nachalo-raboty.md](nachalo-raboty.md)
-{% endcontent-ref %}
 
-{% content-ref url="izvestnye-problemy-i-ogranicheniya.md" %}
+
+
 [izvestnye-problemy-i-ogranicheniya.md](izvestnye-problemy-i-ogranicheniya.md)
-{% endcontent-ref %}
 
-{% content-ref url="chastye-voprosy.md" %}
+
 [chastye-voprosy.md](chastye-voprosy.md)
-{% endcontent-ref %}
+
 
 {% hint style="info" %}
 Не нашли ответ на свой вопрос?&#x20;
