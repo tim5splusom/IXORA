@@ -1,0 +1,41 @@
+name: 'Build and Deploy GitBook'
+
+on:
+  push:
+    branches:
+      - main  # Замените 'main' на вашу основную ветку
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18' # или другая версия, если нужно
+
+      - name: Install GitBook CLI
+        run: npm install -g gitbook-cli
+
+      - name: Prepare GitBook
+        run: |
+          gitbook init
+          # Если есть файл с зависимостями, например book.json, раскомментируйте следующую строку
+          # gitbook install
+
+      - name: Build GitBook
+        run: |
+          gitbook build
+          echo "Build finished"
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
+          publish_dir: ./_book
+          publish_branch: gh-pages
+          publish_remove_last_build: false
+          keep_files: false
