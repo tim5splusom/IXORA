@@ -1,8 +1,8 @@
-name: Build and Deploy GitBook
+name: Deploy GitBook to GitHub Pages
 
 on:
   push:
-    branches: [ main, master ]  # работает и с main, и с master
+    branches: [ main, master ]
 
 permissions:
   contents: write
@@ -14,29 +14,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Build and Deploy GitBook
+        uses: zanderzhao/gitbook-action@v1.2.4
         with:
-          node-version: 18
-
-      - name: Install GitBook CLI
-        run: npm install -g gitbook-cli
-
-      - name: Prepare GitBook (если есть book.json)
-        run: |
-          gitbook init
-          # gitbook install   # раскомментируйте, если есть book.json
-
-      - name: Build GitBook
-        run: gitbook build
-
-      - name: Add .nojekyll to bypass Jekyll processing
-        run: touch ./_book/.nojekyll
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_book
+          token: ${{ secrets.GITHUB_TOKEN }}
+          source_dir: .                # <-- корень репозитория, где лежат ваши .md и папки
           publish_branch: gh-pages
-          force_orphan: true   # полностью заменяет ветку gh-pages
+          publish_dir: ./_book
