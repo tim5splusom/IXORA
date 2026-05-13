@@ -1,9 +1,11 @@
-name: 'Build and Deploy GitBook'
+name: Build and Deploy GitBook
 
 on:
   push:
-    branches:
-      - main  # Замените 'main' на вашу основную ветку
+    branches: [ main, master ]  # работает и с main, и с master
+
+permissions:
+  contents: write
 
 jobs:
   build-and-deploy:
@@ -15,27 +17,26 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18' # или другая версия, если нужно
+          node-version: 18
 
       - name: Install GitBook CLI
         run: npm install -g gitbook-cli
 
-      - name: Prepare GitBook
+      - name: Prepare GitBook (если есть book.json)
         run: |
           gitbook init
-          # Если есть файл с зависимостями, например book.json, раскомментируйте следующую строку
-          # gitbook install
+          # gitbook install   # раскомментируйте, если есть book.json
 
       - name: Build GitBook
-        run: |
-          gitbook build
-          echo "Build finished"
+        run: gitbook build
+
+      - name: Add .nojekyll to bypass Jekyll processing
+        run: touch ./_book/.nojekyll
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.PERSONAL_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_book
           publish_branch: gh-pages
-          publish_remove_last_build: false
-          keep_files: false
+          force_orphan: true   # полностью заменяет ветку gh-pages
