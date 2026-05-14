@@ -10,11 +10,11 @@
 * Рейтинг склада поставщика
 * Поддержка гарантийной политики
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 Можно применять сразу несколько фильтров. После применения выбранные фильтры отображаются на панели управления над таблицей предложений. Там же можно снять отдельный фильтр или сбросить все сразу.
 
-<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

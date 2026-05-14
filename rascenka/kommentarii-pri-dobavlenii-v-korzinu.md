@@ -2,7 +2,7 @@
 
 После нажатия кнопки добавления в корзину на странице расценки вы можете нажать на значок шестерёнки рядом с позицией.
 
-<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне можно:
 
@@ -13,7 +13,7 @@
 
 **Важно:** комментарии не должны повторяться - одна строка = один комментарий
 
-<div><figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
