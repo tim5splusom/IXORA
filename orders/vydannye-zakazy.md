@@ -6,47 +6,29 @@
 
 ### Детали функциональности
 
-{% columns %}
-{% column %}
 **Режим "по заказам"**
 
 Группирует все позиции по заказам и устанавливает поле поиска фильтра по дате - дата заказа
-{% endcolumn %}
 
-{% column %}
 <figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-{% endcolumns %}
 
 ***
 
-{% columns %}
-{% column %}
 **Режим "по отгрузкам"**
 
 Группирует все позиции вкладки "Активные" по реальным отгрузкам (в один день может быть больше одной отгрузки). Устанавливает поле поиска фильтра по дате - дата отгрузки
-{% endcolumn %}
 
-{% column %}
 <figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-{% endcolumns %}
 
 ***
 
-{% columns %}
-{% column %}
 **Фильтр по дате**
 
 В режиме "по заказам" ищет все позиции с датой заказа, соответствующей выбранному периоду
 
 В режиме "по отгрузкам" ищет все позиции с датой отгрузки, соответствующей выбранному периоду
-{% endcolumn %}
 
-{% column %}
 <figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-{% endcolumns %}
 
 ***
 

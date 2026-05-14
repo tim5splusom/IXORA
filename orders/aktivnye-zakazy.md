@@ -6,31 +6,19 @@
 
 ### Детали функциональности
 
-{% columns %}
-{% column %}
 **Режим "по заказам"**
 
 Группирует все позиции по заказам
-{% endcolumn %}
 
-{% column %}
 <figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-{% endcolumns %}
 
 ***
 
-{% columns %}
-{% column %}
 **Режим "по отгрузкам"**
 
 Группирует все позиции вкладки "Активные" по ожидаемым датам доставки, т.е. товары которые приедут в один день окажутся в одной группе
-{% endcolumn %}
 
-{% column %}
 <figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-{% endcolumns %}
 
 ***
 

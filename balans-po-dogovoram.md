@@ -6,8 +6,6 @@
 
 ### Детали
 
-{% columns %}
-{% column %}
 Основные данные:
 
 1. Отсрочка платежа - количество календарных дней после отгрузки в которые должен быть закрыт платеж
@@ -17,26 +15,12 @@
 5. Возвраты в работе - сумма товаров, находящихся в процессе возврата до формирования КСФ (корректировочный счет-фактура)
 6. Долг по выдачи - сумма к оплате, которую нужно внести чтобы была доступна отгрузка
 7. Долг до заказа - сумма к оплате, которую нужно внести чтобы был доступен заказ товара
-{% endcolumn %}
-
-{% column %}
-<figure><img src=".gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src=".gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-{% endcolumns %}
 
 ***
 
-{% columns %}
-{% column %}
 Нажмите "Сформировать акт сверки" чтобы открыть окно запроса акта сверки по выбранному договору
-{% endcolumn %}
 
-{% column %}
 <figure><img src=".gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-{% endcolumns %}
 
 ***
 
