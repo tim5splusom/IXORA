@@ -14,15 +14,15 @@
 * количество (можно изменить),
 * общая стоимость и цена за штуку.
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 Справа в строке есть значок комментария — через него можно добавить, удалить или отредактировать комментарий.
 
-<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 Для выбора нужных товаров используйте чекбоксы — справа на панели отображается общая стоимость выбранных позиций.
 
-<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 Над таблицей расположена панель управления, где можно:
 
@@ -30,11 +30,11 @@
 * обновить корзину,
 * очистить корзину.
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 Вверху находится строка поиска по товарам в корзине.
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

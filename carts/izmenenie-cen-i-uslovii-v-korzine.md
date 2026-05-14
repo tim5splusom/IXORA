@@ -6,15 +6,15 @@
 * Рядом с изменённым параметром появится значок — стрелочка вверх/вниз, зачеркнутый вариант поставки и т.п.
 * Над таблицей появится предупреждение о том, что некоторые позиции изменились.
 
-<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
 В предупреждении есть кнопка «Посмотреть». Нажав на неё, вы откроете отдельное модальное окно со списком всех изменённых позиций, где будут указаны старые и новые условия. Это поможет точно отследить изменения.
 
-<div><figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure></div>
 
 Важно! Если позиция стала полностью недоступна (остаток = 0), система переместит её вниз списка и оставит только два варианта действий — заменить на другое предложение или удалить.
 
-<figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

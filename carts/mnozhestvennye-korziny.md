@@ -4,7 +4,7 @@
 
 В системе поддерживается работа с несколькими корзинами одновременно. Это позволяет удобно разделять заказы по проектам, клиентам или другим нуждам.
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 ### Детали функциональности
 
@@ -12,13 +12,13 @@
 
 Максимальное количество корзин - 10
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 В корзине «Основная» автоматически собираются все добавленные товары.
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -28,25 +28,25 @@
 2. Нажмите "Переместить"
 3. Выберите в какую корзину хотите переместить
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 До 3 корзин можно закрепить - тогда они всегда будут первыми в списке
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 Корзину можно переименовать
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 Нажмите на кнопку чтобы развернуть все корзины
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 ### Поведение
 

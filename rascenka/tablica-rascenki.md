@@ -2,11 +2,11 @@
 
 Верхняя часть таблицы показывает **искомый артикул**, под ним — **его аналоги**.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 Каждый артикул можно **раскрыть**, чтобы увидеть предложения.
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 По умолчанию отображаются до **5 самых выгодных предложений** на артикул.
 
@@ -17,7 +17,7 @@
 * **Кнопка "Фильтровать"** — открывает расширенные фильтры (по цене, сроку, бренду и др.).
 * **Альтернативный артикул** — позволяет выбрать тот же номер от другого бренда.
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 В каждой строке отображаются:
 
