@@ -1,12 +1,31 @@
 <!DOCTYPE html>
-<html>
+<html lang="ru">
 <head>
   <meta charset="UTF-8">
-  <title>Документация</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Документация IXORA B2B</title>
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
 <body>
-  <div id="app"></div>
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <div id="app">Загрузка документации...</div>
+  <script>
+    window.$docsify = {
+      name: 'IXORA B2B',
+      homepage: 'README.md',
+      loadSidebar: true,
+      auto2top: true,
+      subMaxLevel: 2,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
+      search: {
+        placeholder: 'Поиск',
+        noData: 'Ничего не найдено',
+        depth: 3
+      }
+    };
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
 </body>
 </html>
