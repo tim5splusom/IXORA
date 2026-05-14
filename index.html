@@ -5,6 +5,31 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Документация IXORA B2B</title>
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+    .markdown-section figure {
+      margin: 1.25rem 0;
+    }
+
+    .markdown-section img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    .roadmap-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 1rem;
+    }
+
+    .roadmap-grid figure {
+      margin: 0;
+    }
+
+    .roadmap-grid figcaption {
+      margin-top: 0.5rem;
+      font-weight: 600;
+    }
+  </style>
 </head>
 <body>
   <div id="app">Загрузка документации...</div>
@@ -12,11 +37,12 @@
     window.$docsify = {
       name: 'IXORA B2B',
       homepage: 'README.md',
+      basePath: './',
       loadSidebar: true,
       auto2top: true,
       subMaxLevel: 2,
       alias: {
-        '/.*/_sidebar.md': '/_sidebar.md'
+        '/.*/_sidebar.md': '_sidebar.md'
       },
       search: {
         placeholder: 'Поиск',
