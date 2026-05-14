@@ -2,7 +2,7 @@
 
 Это страница, на которой вы можете оформить сразу несколько заказов с разными способами доставки по потребности.<br>
 
-<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
 В центре экрана — таблица с позициями, добавленными в заказ. Показаны все основные данные: количество, стоимость, срок поставки, склад, условия возврата, наименование, артикул.<br>
 
@@ -10,13 +10,13 @@
 
 Над таблицей расположена панель управления. Выделенные чекбоксами позиции можно убрать из заказа или оформить (большая красная кнопка **сверху справа** от таблицы).
 
-<figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
 **Режим представления:**
 
 В правой части панели управления есть выбор представления — как в корзине (по времени добавления) или по датам поставки, чтобы увидеть, какие товары и когда будут доставлены.
 
-<div><figure><img src="../.gitbook/assets/image (70).png" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (71).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/image (70).png" alt="" width="563"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image (71).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 **Выбор способа доставки:**
 
@@ -33,7 +33,7 @@
 
 Сверху, над кнопкой «Заказать», показывается общая информация по выбранным позициям: дата, количество товаров, стоимость, стоимость доставки (если платная) и итоговая сумма.
 
-<figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

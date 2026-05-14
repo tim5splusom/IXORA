@@ -10,25 +10,25 @@
 
 При выборе экспресс-доставки товары группируются по складам отправки. Заказ экспресс-доставки формируется с одного склада.
 
-<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
 \
 В компании есть два вида экспресс-доставки — собственным транспортом и через Яндекс. Тип доставки указан рядом с названием склада, а также условия (вес, стоимость и т.д.).
 
-<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 \
 Для заказа экспресс-доставки нужно заполнить поля «Получатель» и номер телефона. Вы можете указать любые данные, важно, чтобы курьер мог связаться с получателем.<br>
 
 Если вы заказываете доставку через Яндекс впервые на этот адрес, необходимо подтвердить адрес.
 
-<figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
 **Обработка ошибок при экспресс-доставке**
 
 Если заказ не соответствует условиям (превышен максимальный вес или недобор по минимальной сумме), система выдаст предупреждение и не позволит оформить заказ.
 
-<figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
 Вы можете:
 
@@ -39,7 +39,7 @@
 
 Если заказ с одного склада заблокирован, пока не будут выполнены условия, вы всё равно можете оформить другие заказы, которые уже соответствуют требованиям.
 
-<figure><img src="../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

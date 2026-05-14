@@ -2,7 +2,7 @@
 
 На вкладке "активные" доступен просмотр всех заказанных позиций которые еще не были выданы или отменены.
 
-<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 ### Детали функциональности
 
@@ -10,7 +10,7 @@
 
 Группирует все позиции по заказам
 
-<figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -18,7 +18,7 @@
 
 Группирует все позиции вкладки "Активные" по ожидаемым датам доставки, т.е. товары которые приедут в один день окажутся в одной группе
 
-<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

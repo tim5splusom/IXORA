@@ -6,7 +6,7 @@
 
 Чтобы открыть окно управления наценкой нажмите на название столбца "Стоимость" в таблице (работает и в таблице предложений расценки)
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 Вы можете выбрать один из двух типов наценки:
 
@@ -15,7 +15,7 @@
 * фиксированный процент, или
 * фиксированная сумма.
 
-<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
 **Сложная наценка:**
 
@@ -39,25 +39,25 @@
 > 3. Все товары от 1500р до 2499р получат наценку 5%
 > 4. Все товары дороже 2499р получат наценку 4%
 
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 ### Детали функциональности
 
 Введите нужные значения простой или сложной наценки
 
-<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 Нажмите применить. Окно настройки закроется а цены поменяют цвет на синий
 
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 Чтобы убрать наценку, снова нажмите на значок % рядом со столбцом "Стоимость" — затем нажмите на синий переключатель
 
-<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 ### Поведение
 
