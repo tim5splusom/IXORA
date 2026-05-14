@@ -8,13 +8,13 @@
 * [Частые вопросы](chastye-voprosy.md)
 * [Начало работы](nachalo-raboty.md)
 
-## Таблица предложений (расценка) <a href="#rascenka" id="rascenka"></a>
+## Таблица предложений (расценка)
 
 * [Таблица расценки](rascenka/tablica-rascenki.md)
 * [Фильтры на странице предложений](rascenka/filtry-na-stranice-predlozhenii.md)
 * [Комментарий при добавлении в корзину](rascenka/kommentarii-pri-dobavlenii-v-korzinu.md)
 
-## Корзина <a href="#carts" id="carts"></a>
+## Корзина
 
 * [Корзина](carts/korzina.md)
 * [Множественные корзины](carts/mnozhestvennye-korziny.md)
@@ -27,13 +27,13 @@
 * [Экспресс-доставка](oformlenie-zakaza/ekspress-dostavka.md)
 * [Оформление заказа](oformlenie-zakaza/oformlenie-zakaza.md)
 
-## Движение заказов <a href="#orders" id="orders"></a>
+## Движение заказов
 
 * [Все заказы](orders/vse-zakazy.md)
 * [Активные заказы](orders/aktivnye-zakazy.md)
 * [Выданные заказы](orders/vydannye-zakazy.md)
 
-## Баланс и финансы <a href="#finance" id="finance"></a>
+## Баланс и финансы
 
 * [Баланс](balans.md)
 * [Баланс по договорам](balans-po-dogovoram.md)
