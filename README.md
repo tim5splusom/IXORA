@@ -4,11 +4,11 @@
 
 #### Рекомендуемые статьи
 
-[nachalo-raboty.md](nachalo-raboty.md)
+[Начало работы](nachalo-raboty.md)
 
-[izvestnye-problemy-i-ogranicheniya.md](izvestnye-problemy-i-ogranicheniya.md)
+[Известные проблемы](izvestnye-problemy-i-ogranicheniya.md)
 
-[chastye-voprosy.md](chastye-voprosy.md)
+[Частые вопросы](chastye-voprosy.md)
 
 
 
